@@ -1,0 +1,13 @@
+/* 
+Babel: Converter o código do react em um código que o browser entenda
+
+Webpack: Para cada tipo de arquivo, converter o cógigo de uma forma diferente, ou seja .js o babel converte.
+
+Loaders: babel-loader, css-loader, image-loader, file-loader - ou seja, é algo utilizado pelo webpack para realizar conversões.
+*/
+
+/* 
+Componente
+Propriedade: Quando quero passar algo do componente pai para o componente filho
+Estado e Imutabilidade: Utilizado para armazenar 
+*/
